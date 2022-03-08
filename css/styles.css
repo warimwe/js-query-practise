@@ -1,3 +1,10 @@
 #walrus-showing {
   display: none;
 }
+body {
+  background-color: aquamarine;
+}
+
+.white-card {
+  padding: 10%;
+}
